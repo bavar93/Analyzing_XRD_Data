@@ -72,3 +72,6 @@ Future improvements to this project could include:
 This project was inspired by the need for efficient and accurate XRD data analysis in materials science research. Special thanks to the creators of the libraries used in this project: pandas, numpy, and scipy.
 
 Feel free to reach out if you have any questions or suggestions!
+
+## License
+This project is licensed under the MIT License 
